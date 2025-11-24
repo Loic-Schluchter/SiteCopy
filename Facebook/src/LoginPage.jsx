@@ -6,7 +6,7 @@ export default function LoginPage() {
       <div className="flex w-full h-1/2 px-4 flex-col items-center justify-center bg-[#f2f4f7]">
         <div className="flex">
           {/* Colonne gauche */}
-          <div className="flex flex-col justify-center gap-4 w-1/2 mx-auto">
+          <div className="flex flex-col justify-center gap-4 w-1/2 mx-auto -mt-24">
             <h1 className="text-[#1877f2] text-6xl font-semibold">facebook</h1>
             <p className="font-normal text-3xl">
               Avec Facebook, partagez et restez en contact avec votre entourage.
