@@ -27,8 +27,8 @@ Chaque projet est réalisé **from scratch**, en se concentrant sur :
 Le projet est déployé publiquement via Vercel :
 
 🔗 URL :
--**Instagram :** https://instagram-amber-nine.vercel.app/
--**Facebook :** https://facebook-steel-seven.vercel.app/
+- **Instagram :** https://instagram-amber-nine.vercel.app/
+- **Facebook :** https://facebook-steel-seven.vercel.app/
 
 ---
 
