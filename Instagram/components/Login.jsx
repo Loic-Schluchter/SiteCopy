@@ -2,7 +2,7 @@ import React from "react";
 import InstagramLogo from "../assets/Instagram.png";
 import FacebookLogo from "../assets/Facebook.png";
 
-export default function Login() {
+export default function login() {
   return (
     <main className="bg-[#0c1014] min-h-screen flex flex-col text-white text-sm">
       <article className="flex-1 flex justify-center gap-8 m-12">
