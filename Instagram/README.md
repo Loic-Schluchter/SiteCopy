@@ -39,15 +39,18 @@ Aucun code source officiel d’Instagram n’a été utilisé.
 ## 📂 Structure du projet
 
 Instagram/
+- public/
 - src/
   - assets/
   - components/
     - Login.jsx
   - App.jsx
   - main.jsx
-- public/
+- index.html
 - package.json
 - README.md
+
+
 
 
 
