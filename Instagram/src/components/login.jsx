@@ -5,12 +5,12 @@ import FacebookLogo from "../assets/Facebook.png";
 export default function login() {
   return (
     <main className="bg-[#0c1014] min-h-screen flex flex-col text-white text-sm">
-      <article className="flex-1 flex justify-center gap-8 m-12">
+      <article className="flex-1 flex justify-center items-center gap-20">
         <div className="flex items-center justify-center">
           <img className="logo" src={InstagramLogo} alt="Instagram Logo" />
         </div>
 
-        <div className="flex flex-col items-center justify-center w-[350px]">
+        <div className="flex flex-col items-center justify-center w-[350px] ">
           <h1 className="text-6xl font-story text-center my-8">Instagram</h1>
           <form action="login" className="flex flex-col w-full px-8 gap-1">
             <input
