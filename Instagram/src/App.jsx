@@ -1,9 +1,8 @@
 import React from "react";
+import Login from "../components/login.jsx";
 
 export default function App() {
   return (
-    <div>
-      <h1 className="text-red-800">test</h1>
-    </div>
+    <Login/>
   );
 }

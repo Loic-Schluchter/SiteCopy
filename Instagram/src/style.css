@@ -1,1 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
 @import "tailwindcss";
+
+
+@theme {
+ --font-story : 'Story Script', cursive;
+}
+.small-logo{
+    @apply  rounded-full w-5;
+   
+    }
+
+.logo{
+    @apply  rounded-full max-w-64;
+   
+    }
+
+.input-form{
+    @apply  bg-[#25292e] rounded-md p-2 m-1 w-full text-white border-white/15 border;
+   
+    }
+.button-login{
+
+    @apply bg-[#3846b5] rounded-xl p-1.5 my-2 w-full text-white font-bold;
+   
+    }
+.line{
+    @apply  flex-1 h-px bg-gray-300;
+   
+    }
+.footer-underline{
+    @apply hover:underline
+}
