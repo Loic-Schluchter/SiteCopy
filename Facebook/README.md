@@ -1,16 +1,92 @@
-# React + Vite
+# Facebook — UI Copy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Description
 
-Currently, two official plugins are available:
+Ce projet est une **reproduction de l’interface de Facebook** réalisée dans un **objectif purement pédagogique**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Le but est de recréer l’apparence générale et certaines interactions de l’interface web afin de :
+- progresser en développement front-end
+- m’entraîner à analyser une UI existante
+- améliorer ma maîtrise de React
+- structurer un projet moderne proprement
 
-## React Compiler
+Aucun code source officiel de Facebook n’a été utilisé.
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## 🎯 Objectifs pédagogiques
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Découper une interface complexe en composants React
+- Travailler la structure d’un projet front-end
+- Améliorer la lisibilité et l’organisation du code
+- Gérer les imports, assets et composants
+- Déployer une application React avec Vite
+
+---
+
+## 🛠 Technologies utilisées
+
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Git / GitHub
+- Vercel (déploiement)
+
+---
+
+## 📂 Structure du projet
+
+Facebook/
+- public/
+- src/
+  - assets/
+  - LoginPage.jsx
+  - Style.css
+  - main.jsx
+- index.html
+- package.json
+- package-lock.json
+- vite.config.js
+- eslint.config.js
+- .gitignore
+- README.md
+
+
+
+
+---
+
+## 🚀 Déploiement
+
+Le projet est déployé publiquement via **Vercel**  
+https://facebook-steel-seven.vercel.app/.
+
+---
+
+## ⚠️ Avertissement légal
+
+Ce projet est réalisé **uniquement à des fins éducatives**.
+
+- Facebook est une marque déposée de Meta Platforms, Inc.
+- Cette reproduction n’a aucun but commercial.
+- Les visuels et concepts appartiennent à leurs propriétaires respectifs.
+
+---
+
+## 📈 Améliorations possibles
+
+- Ajout de nouvelles sections de l’interface
+- Amélioration de la fidélité visuelle
+- Responsive plus avancé
+- Refactorisation des composants
+- Gestion d’état plus structurée
+
+---
+
+## 👤 Auteur
+
+**Loïc Schluchter**  
+Développeur front-end en formation  
+📍 Genève, Suisse
