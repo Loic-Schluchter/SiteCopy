@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <div>
       <div className="md:hidden">
-      <CreateAccount />
+      <CreateAccount variant="secondary" />
       <MetaLogo />
 
       </div>
